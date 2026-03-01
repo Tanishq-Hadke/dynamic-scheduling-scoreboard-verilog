@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../scoreboard_ooo.srcs/sources_1/new/functional_unit.v" \
+"../../../../scoreboard_ooo.srcs/sources_1/new/issue_logic.v" \
+"../../../../scoreboard_ooo.srcs/sources_1/new/scoreboard_table.v" \
+"../../../../scoreboard_ooo.srcs/sources_1/new/scoreboard_top.v" \
+"../../../../scoreboard_ooo.srcs/sources_1/new/writeback_unit.v" \
+"../../../../scoreboard_ooo.srcs/sim_1/new/tb_scoreboard.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

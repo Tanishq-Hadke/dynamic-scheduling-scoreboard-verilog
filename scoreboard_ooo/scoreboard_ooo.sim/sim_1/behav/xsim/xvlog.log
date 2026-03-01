@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/functional_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module functional_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/issue_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module issue_logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_table.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module scoreboard_table
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module scoreboard_top
+WARNING: [VRFC 10-2938] 'issue_en' is already implicitly declared on line 37 [C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_top.v:48]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/writeback_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module writeback_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sim_1/new/tb_scoreboard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_scoreboard
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/acer/scoreboard_ooo/scoreboard_ooo.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sim_1/new/tb_scoreboard.v,1772366754,verilog,,,,tb_scoreboard,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/functional_unit.v,1772366557,verilog,,C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/issue_logic.v,,functional_unit,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/issue_logic.v,1772366566,verilog,,C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_table.v,,issue_logic,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_table.v,1772366537,verilog,,C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_top.v,,scoreboard_table,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/scoreboard_top.v,1772366684,verilog,,C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/writeback_unit.v,,scoreboard_top,,,,,,,,
+C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sources_1/new/writeback_unit.v,1772366669,verilog,,C:/Users/acer/scoreboard_ooo/scoreboard_ooo.srcs/sim_1/new/tb_scoreboard.v,,writeback_unit,,,,,,,,
